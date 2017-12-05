@@ -55,7 +55,7 @@ if(isset($_POST['login'])){
         <div class="navbar-header">
             
              <div class="navbar-brand">
-             <a href="#"><strong>LEARN MATHEMATICS</strong></a><br/>
+             <a href="#"><strong>LEARN MATHEMATICS WITH EASE</strong></a><br/>
                 <small style="font-size:13px;  color:#fff; ">it starts from here . . .</small>
             </div>
         </div>
