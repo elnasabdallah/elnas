@@ -1,0 +1,1 @@
+<?php echo "Thank you for your patronage, kindly click <a href='#'>Here</a> to proceed with your online payment";?>
