@@ -90,6 +90,8 @@ if(isset($_POST['login'])){
                         <br />
                         <input type="submit" class="btn btn-success pull-right"  name="login" value="Sign In" />
 						  <h5 style="color: #090;"> <a href="register.php" class="text-info"  >Click here to sign up</a></h5>
+                        <h5 style="color: #090;"> <a href="payment.php" class="text-info"  >Click here to make payment</a></h5>
+                        
                         <br />
                         <br />
                       </form>
