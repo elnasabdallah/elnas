@@ -111,7 +111,7 @@ if(isset($_POST['login'])){
             </p>
             <p class="navbar-text pull-right" style="color:#777;">
 
-                Designed by <span style="color:#4f84b0; font-weight:bold;">Umar ( UG12/SCCS/1002 )</span>
+                Designed by <span style="color:#4f84b0; font-weight:bold;">ELnass( UG12/SCCS/1000 )</span>
 
             </p>
     </div>
